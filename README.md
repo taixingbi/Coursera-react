@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## create react app
+https://reactjs.org/docs/create-a-new-react-app.html         
+npm start     
+
+## install boostrap and react-boostrap    
+https://react-bootstrap.github.io/getting-started/introduction/      
+npm install --save bootstrap react-bootstrap
+
 
 ## Available Scripts
 
