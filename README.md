@@ -9,7 +9,7 @@ npm start
 
 ## install boostrap and react-boostrap    
 https://react-bootstrap.github.io/getting-started/introduction/      
-npm install --save bootstrap react-bootstrap
+npm install --save bootstrap react-bootstrap react-dom
 
 
 ## Available Scripts
